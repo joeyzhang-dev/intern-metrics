@@ -1,5 +1,6 @@
 # intern-metrics
 
+ I needed this quick script to analyze 2024 Internship listings of roles I wanted
 A simple Python tool for filtering and analyzing internship listings by role type and posted date. Designed for SWE-focused students who want to explore trends, track openings, and extract useful data.
 
 ## Features
